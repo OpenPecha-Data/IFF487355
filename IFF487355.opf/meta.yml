@@ -1,0 +1,16 @@
+id: IFF487355
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:01:44.897850
+last_modified: 2023-02-08 16:01:44.897957
+source_metadata:
+  title: 'Vasubandhu: Abhidharmakośabhāṣya'
+  language: zh
+bases:
+  FAA0:
+    base_file: FAA0.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

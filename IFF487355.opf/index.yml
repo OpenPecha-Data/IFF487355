@@ -1,0 +1,51 @@
+id: 147a5797a96d408aa33a2911614cca2b
+annotation_type: index
+revision: '00001'
+annotations:
+  d9f10372aad543e5b4935c83c5804bce:
+    base: FAA0.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 24
+    - title: Preface
+      span:
+        start: 25
+        end: 31
+    - title: 'Chapter I: Dhātunirdeśa'
+      span:
+        start: 32
+        end: 23219
+    - title: 'Chapter II: Indriyanirdeśa'
+      span:
+        start: 23220
+        end: 76744
+    - title: 'Chapter III: Lokanirdeśa'
+      span:
+        start: 76745
+        end: 133295
+    - title: 'Chapter IV: Karmanirdeśa'
+      span:
+        start: 133296
+        end: 198921
+    - title: 'Chapter V: Anuśayanirdeśa'
+      span:
+        start: 198922
+        end: 233328
+    - title: 'Chapter VI: Mārgapudgalanirdeśa'
+      span:
+        start: 233329
+        end: 239125
+    - title: 'Chapter VII: Jñānanirdeśa'
+      span:
+        start: 239126
+        end: 243602
+    - title: 'Chapter VIII: Samāpattinirdeśa'
+      span:
+        start: 243603
+        end: 246737
+    - title: 'Chapter IX: Conclusions'
+      span:
+        start: 246738
+        end: 247386
